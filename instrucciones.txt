@@ -1,6 +1,7 @@
 Instrucciones de uso del juego GalaxyGuardian
 
 1. Introducción al juego
+
 Eres la última esperanza de los aliados para evitar que el Imperio se apodere de la galaxia, tú eres su último guardián. Pero no todo está perdido, gracias a tecnología de última punta, has podido construir la mejor nave con la que se puede contar para retener a quienes amenazan con tomar la galaxia. Además, cuentas con aliados que se han unido a tu causa para poder defender a la galaxia.
 Acabas de llegar a un punto de control clave para defender la galaxia. Ahora, tu misión consiste en eliminar una cantidad extraordinaria de enemigos chocando con ellos para salvar la galaxia. Pero espera!!! Tus aliados también han venido al rescate, esquívalos para que puedan ayudarte en tu camino a restablecer la paz de la galaxia.
 
@@ -21,3 +22,12 @@ A medida que vas desplazando tu nave a través de la galaxia, un montón de alia
 Inicialmente, tienes cero puntos. Por cada enemigo impactado sumas 1 punto, y por cada aliado impactado restas 1 punto. Si llegas a -10 puntos habrás fallado y los enemigos tomarán el control de la galaxia. Si alcanzas los 10 puntos, conseguirás tu misión, y la galaxia alcanzará la paz finalmente.
 
 ¿Listo para salvar la galaxia? Da click en el botón de 'Iniciar' para empezar tu misión!!!
+
+3. Nota para los jugadores
+
+Debes correr en tu terminal los siguientes comandos:
+
+pip uninstall mediapipe protobuf tensorflow -y
+pip install mediapipe==0.10.14 opencv-python
+
+Esto para garantizar el correcto funcionamiento de la cámara cuando ésta se encuentre en uso y compatibilidad de versiones de librería usadas en el juego. Gracias por tu cooperación! 
