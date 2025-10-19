@@ -1,0 +1,23 @@
+Instrucciones de uso del juego GalaxyGuardian
+
+1. Introducción al juego
+Eres la última esperanza de los aliados para evitar que el Imperio se apodere de la galaxia, tú eres su último guardián. Pero no todo está perdido, gracias a tecnología de última punta, has podido construir la mejor nave con la que se puede contar para retener a quienes amenazan con tomar la galaxia. Además, cuentas con aliados que se han unido a tu causa para poder defender a la galaxia.
+Acabas de llegar a un punto de control clave para defender la galaxia. Ahora, tu misión consiste en eliminar una cantidad extraordinaria de enemigos chocando con ellos para salvar la galaxia. Pero espera!!! Tus aliados también han venido al rescate, esquívalos para que puedan ayudarte en tu camino a restablecer la paz de la galaxia.
+
+2. Jugabilidad
+
+2.1. Movimiento del jugador
+
+Para controlar tu nave, este juego involucra el uso de la cámara para una experiencia ideal de juego. Con ella, al extender tu mano en alguna posición dentro del marco de tu cámara, tu nave aparecerá en pantalla en la misma posición de tu mano. Y, a medida que mueves tu mano extendida a través del rango visible de tu cámara, podrás desplazar tu nave en pantalla, la cual sigue la posición actual de tu mano. 
+Además, cuando quitas la mano del rango de visión de tu cámara, tu nave se camuflará. En este estado, no hay posibilidad de que impactes con aliados ni enemigos durante el tiempo que desees. Usa esta habilidad con sabiduría. La nave volverá a aparecer en pantalla en la posición que desees una vez vuelvas a extender tu mano dentro del rango visible de tu cámara.
+
+2.2. Aliados y enemigos
+
+Para diferenciar tus aliados de tus enemigos es realmente sencillo, los enemigos, quienes amenazan con apoderarse de la galaxia, son naves blancas y verdes que buscan construir un imperio que tome control de todo y arrase con quienes no estén de acuerdo. Por otro lado, tus aliados son naves blancas y azules que buscan ayudarte a defender la galaxia de los terribles enemigos que desean la galaxia para sí solos.
+A medida que vas desplazando tu nave a través de la galaxia, un montón de aliados y enemigos aparecerán de manera aleatoria desde la derecha y se desplazarán hacia la izquierda. Como guardián de la galaxia, debes evitar que los enemigos te sobrepasen, chocando contra ellos para eliminarlos. Pero ten cuidado, evita impactar accidentalmente con uno de tus aliados, a ellos sí debes dejarlos pasar para que te ayuden a salvar la galaxia.
+
+2.3. Cómo ganar y cómo perder el juego
+
+Inicialmente, tienes cero puntos. Por cada enemigo impactado sumas 1 punto, y por cada aliado impactado restas 1 punto. Si llegas a -10 puntos habrás fallado y los enemigos tomarán el control de la galaxia. Si alcanzas los 10 puntos, conseguirás tu misión, y la galaxia alcanzará la paz finalmente.
+
+¿Listo para salvar la galaxia? Da click en el botón de 'Iniciar' para empezar tu misión!!!
